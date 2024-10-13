@@ -41,4 +41,4 @@ Dashboard.png: A snapshot image of the dashboard.
 
 ## Contact:
 If you have any questions or need further information about this project, please feel free to contact me via email at srimano@iu.edu.
-![image](https://github.com/user-attachments/assets/cbef5903-3aa6-453d-af4a-a6771a084653)
+
