@@ -9,7 +9,9 @@ Xtern_DA_&_Cleaning.ipynb: Google colab that contains the data analysis and clea
 Dashboard.twbx : The Tableau Packaged Workbook containing all visualizations and data (this can be opened with Tableau Public).
 Dashboard.pdf: A static PDF version of the Tableau dashboard for easy viewing.
 Dashboard.png: A high-resolution image of the dashboard.
+Proposed Fan Challenges: This Challenge engages fans by encouraging daily participation, driving increased time on the platform, merchandise purchases, and sponsorship interactions. 
 README.md: This file that provides project details and instructions.
+
 
 ## Key Insights from the Dashboard:
 1. Time on Live 360 and Purchases: Users who spend more time on the Live 360 feature are more likely to purchase virtual merchandise. 
@@ -21,13 +23,14 @@ Xtern_DA_&_Cleaning.ipynb: Contains the data cleaning steps applied to the datas
 Dashboard.twbx: Tableau Packaged Workbook that provides interactive visualizations. You can download this file and open it in Tableau Public to explore the interactive dashboard.
 Dashboard.pdf: A PDF export of the dashboard, useful for non-interactive viewing.
 Dashboard.png: A snapshot image of the dashboard.
+Proposed Fan Challenges.pdf: Replace any placeholder values like X minutes or Y messages with actual numbers if applicable to analysis.
 
 ## How to Use the Dashboard:
 1. For interactive use: 
-   - Download the **Dashboard.twbx** file from this repository.
-   - Open it in Tableau Public 
+   Download the Dashboard.twbx file from this repository.
+   Open it in Tableau Public 
 2. For static viewing:
-   - You can view the Dashboard.pdf or Dashboard.png for a non-interactive version of the dashboard.
+   You can view the Dashboard.pdf or Dashboard.png for a non-interactive version of the dashboard.
 
 ## Instructions to Run program in Google Colab:
 - Ensure you have Python installed along with the necessary libraries such as pandas, numpy, and scikit-learn.
